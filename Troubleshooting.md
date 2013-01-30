@@ -1,4 +1,4 @@
-    <p>If this program is not working on your computer, you might need to install Java.</p>
+<p>If this program is not working on your computer, you might need to install Java.</p>
     <br />
     <br />
     <div style="text-align:center;">
