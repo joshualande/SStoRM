@@ -1,38 +1,35 @@
-<h1>Screenshots of SStoRM v1</h1>
+# Screenshots of SStoRM v1
 
-<img src="./images/version1energyspectrumscreenshot.jpg" alt="Screenshot of the Energy Spectrum." /><br />
+### Selecting the fluence of an event:
+![Screenshot of the Energy Spectrum.](https://raw.github.com/joshualande/SStoRM/master/images/version1energyspectrumscreenshot.jpg)
 
-Selecting the fluence of an event.<br /><br />
+### Selecting the time evolution of the event:
+![Screenshot of the Time Evolution.](https://raw.github.com/joshualande/SStoRM/master/images/version1timeevolutionscreenshot.jpg)
 
-<img src="./images/version1timeevolutionscreenshot.jpg" alt="Screenshot of the Time Evolution." /><br />
+### Viewing the "Estiamted Dose" tab:
+![Screenshot of the Estimated Dose.](https://raw.github.com/joshualande/SStoRM/master/images/version1estimateddosescreenshot.jpg)
 
-Selecting the time evolution of the event.<br /><br />
+### Viewing the "Exercise Tab":
+![Screenshot of the Exercise.](https://raw.github.com/joshualande/SStoRM/master/images/version1exercisescreenshot.jpg)
 
-<img src="./images/version1estimateddosescreenshot.jpg" alt="Screenshot of the Estimated Dose." /><br />
+# Screenshots of SStoRM v2
 
-Viewing the "Estiamted Dose" tab.<br /><br />
+### Selecting the fluence of both events:
+![Screenshot of the Energy Spectrum.](https://raw.github.com/joshualande/SStoRM/master/images/version2energyspectrumscreenshot.jpg)
 
-<img src="./images/version1exercisescreenshot.jpg" alt="Screenshot of the Exercise." /><br />
+### Selecting the time evolution of both events:
+![Screenshot of the Time Evolution.](https://raw.github.com/joshualande/SStoRM/master/images/version2timeevolutionscreenshot.jpg)
 
-Viewing the "Exercise Tab".<br /><br />
+# Screenshots of SStoRM v3
 
-<h1>Screenshots of SStoRM v2</h1>
+### Selecting the time evolution of the shock enhanced peak:
+![Screenshot of the Time Evolution.](https://raw.github.com/joshualande/SStoRM/master/images/version3timeevolutionscreenshop.jpg)
 
-<img src="./images/version2energyspectrumscreenshot.jpg" alt="Screenshot of the Energy Spectrum." /><br />
-Selecting the fluence of both events.<br /><br />
+# SStoRM on other operating systems
 
-<img src="./images/version2timeevolutionscreenshot.jpg" alt="Screenshot of the Time Evolution." /><br />
-Selecting the time evolution of both events.<br /><br />
+### SStoRM running on Windows:
+![Screenshot of SStoRM running on windows.](https://raw.github.com/joshualande/SStoRM/master/images/version1windows.jpg)
 
-<h1>Screenshots of SStoRM v3</h1>
-
-<img src="./images/version3timeevolutionscreenshop.jpg" alt="Screenshot of the Time Evolution." /><br />
-Selecting the time evolution of the shock enhanced peak.<br /><br />
-
-<h1>SStoRM on other operating systems</h1>
-<img src="./images/version1windows.jpg" alt="Screenshot of SStoRM running on windows" /><br />
-SStoRM running on Windows<br /><br />
-
-<img src="./images/version2linux.jpg" alt="Screenshot of SStoRM running on linux" /><br />
-SStoRM running on Ubuntu Linux<br />
+### SStoRM running on Ubuntu Linux:
+![Screenshot of SStoRM running on linux.](https://raw.github.com/joshualande/SStoRM/master/images/version2linux.jpg)
 
