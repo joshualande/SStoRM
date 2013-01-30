@@ -26,4 +26,4 @@ SStoRM was created in 2005 by Joshua Lande and Dr. Ronald Turner at [ANSER](http
 
 SStoRM is Open Source. The open source license can be found [here](https://github.com/joshualande/SStoRM/blob/master/LICENSE.md)
 
-Click here for instructions on accessing the source code.
+Click [here](https://github.com/joshualande/SStoRM/blob/master/source.md) for instructions on accessing the source code.
