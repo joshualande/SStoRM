@@ -12,12 +12,13 @@ SStoRM lets you simulate an SPE with a user specified energy spectrum and time e
 
 The three version of the program each let you define an SPE differently. SStoRMv1 lets you simulate one SPE at a time. SStoRMv2 lets you simulate two different events happening simultaneously. SStoRMv3 lets you simulate one event that includes a separate Gaussian shock enhanced peak.      
 
+# Screen Shots
+
+Screenshots of SStoRM can be viewed here.
+
 # About
 
 SStoRM was created in 2005 by Joshua Lande and Dr. Ronald Turner at [ANSER](http://www.anser.org"). You can contact Joshua Lande [here](joshualande@gmail.com). SStoRM was created as a result of ANSER's participation in the George Washingtion University [SEAP internship program](http://www.gwseap.net).
-
-
-# Screen Shots
 
 # Open Source License
 
