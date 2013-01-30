@@ -1,4 +1,4 @@
-    <p>SStoRM is a free open source computer program that can simulate Solar Particle Events (SPEs). It is written entirely in Java and can be run online using Java Web Start. It is cross platform and can be run on any computer with JAVA installed. Feel free to play around with it. 
+<p>SStoRM is a free open source computer program that can simulate Solar Particle Events (SPEs). It is written entirely in Java and can be run online using Java Web Start. It is cross platform and can be run on any computer with JAVA installed. Feel free to play around with it. 
     </p>      
     <div style="text-align:center;">
       <a href="SStoRM-v1.0.2.jnlp">
