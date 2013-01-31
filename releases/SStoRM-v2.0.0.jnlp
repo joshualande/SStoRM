@@ -6,7 +6,7 @@
 
   <!-- Application codebase -- All URLs are
        relative to this URL. -->
-  codebase="http://cs.marlboro.edu/~jolande/off_campus/SStoRM/"
+  codebase="https://raw.github.com/joshualande/SStoRM/master/releases/"
 
   <!-- The relative URL of this file -->
   href="SStoRM-v2.0.0.jnlp">
@@ -21,7 +21,7 @@
 
     <!-- A link to a web page related to
          the application -->
-    <homepage href=""http://cs.marlboro.edu/~jolande/off_campus/SStoRM/"/>
+    <homepage href="http://joshualande.github.com/SStoRM"/>
 
     <!-- Description elements are displayed
          in various places in the Application
@@ -52,7 +52,7 @@
          allowed, in which case they are
          considered to be in order of
          preference -->
-    <j2se version="1.5"/>
+    <j2se version="1.5,1.6,1.7"/>
 
     <!-- Specify the relative URL of a .jar
          file containing code or data.
