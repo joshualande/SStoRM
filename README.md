@@ -16,7 +16,12 @@ The three version of the program each let you define an SPE differently. SStoRMv
 
 # Screen Shots
 
-More screenshots of SStoRM can be viewed [here](https://github.com/joshualande/SStoRM/blob/master/Screenshots.md).
+More screenshots of SStoRM can be viewed [here](https://github.com/joshualande/SStoRM/blob/master/screenshots.md).
+
+# Troubleshooting
+
+Go [here](https://github.com/joshualande/SStoRM/blob/master/troubleshooting.md) for help troubleshooting any problems with the program
+
 
 # About
 
