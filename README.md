@@ -20,6 +20,10 @@ More screenshots of SStoRM can be viewed [here](http://github.com/joshualande/SS
 
 # Documentation
 
+A description of SStoRM can be found here: [v1](http://raw.github.com/joshualande/SStoRM/master/documentation/documentation_SStoRM_v1.pdf), [v2](http://raw.github.com/joshualande/SStoRM/master/documentation/documentation_SStoRM_v2.pdf), and [v3](http://raw.github.com/joshualande/SStoRM/master/documentation/documentation_SStoRM_v3.pdf).
+
+In addition, [here](http://raw.github.com/joshualande/SStoRM/master/documentation/lande_SEAP_paper_2004.pdf) my writeup of Joshua Lande's 2004 summer research on this project and [here](http://raw.github.com/joshualande/SStoRM/master/documentation/lande_SEAP_paper_2005.pdf) is Joshua's 2005 writeup.
+
 # Troubleshooting
 
 Go [here](http://github.com/joshualande/SStoRM/blob/master/troubleshooting.md) for help troubleshooting any problems with the program
