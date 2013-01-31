@@ -52,7 +52,7 @@
          allowed, in which case they are
          considered to be in order of
          preference -->
-    <j2se version="1.5"/>
+    <j2se version="1.7,1.6,1.5"/>
 
     <!-- Specify the relative URL of a .jar
          file containing code or data.
