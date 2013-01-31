@@ -26,7 +26,7 @@ In addition, [here](http://raw.github.com/joshualande/SStoRM/master/documentatio
 
 # Troubleshooting
 
-Go [here](http://github.com/joshualande/SStoRM/blob/master/troubleshooting.md) for help troubleshooting any problems with the program
+Go [here](http://github.com/joshualande/SStoRM/blob/master/troubleshooting.md) for help troubleshooting any problems with the program.
 
 # About
 
@@ -34,6 +34,6 @@ SStoRM was created in 2005 by Joshua Lande and Dr. Ronald Turner at [ANSER](http
 
 # Open Source
 
-SStoRM is Open Source. The open source license for SStoRM can be found [here](http://github.com/joshualande/SStoRM/blob/master/LICENSE.md)
+SStoRM is Open Source. The open source license for SStoRM can be found [here](http://github.com/joshualande/SStoRM/blob/master/LICENSE.md).
 
 Click [here](http://github.com/joshualande/SStoRM/blob/master/source.md) for instructions on accessing the source code.
