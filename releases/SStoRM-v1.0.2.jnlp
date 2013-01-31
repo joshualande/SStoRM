@@ -6,7 +6,7 @@
 
   <!-- Application codebase -- All URLs are
        relative to this URL. -->
-  codebase="http://cs.marlboro.edu/~jolande/off_campus/SStoRM/"
+  codebase="https://raw.github.com/joshualande/SStoRM/master/releases/"
 
   <!-- The relative URL of this file -->
   href="SStoRM-v1.0.2.jnlp">
@@ -21,7 +21,7 @@
 
     <!-- A link to a web page related to
          the application -->
-    <homepage href=""http://cs.marlboro.edu/~jolande/off_campus/SStoRM/"/>
+    <homepage href="http://joshualande.github.com/SStoRM"/>
 
     <!-- Description elements are displayed
          in various places in the Application
