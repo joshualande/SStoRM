@@ -60,7 +60,7 @@ Go [here](http://github.com/joshualande/SStoRM/blob/master/troubleshooting.md) f
 
 # About
 
-SStoRM was created in 2005 by Joshua Lande and Dr. Ronald Turner at [ANSER](http://www.anser.org"). You can contact Joshua Lande [here](joshualande@gmail.com). SStoRM was created as a result of ANSER's participation in the George Washingtion University [SEAP internship program](http://www.gwseap.net).
+SStoRM was created in 2005 by Joshua Lande and Dr. Ronald Turner at [ANSER](http://www.anser.org). You can contact Joshua Lande [here](joshualande@gmail.com). SStoRM was created as a result of ANSER's participation in the George Washingtion University [SEAP internship program](http://www.gwseap.net).
 
 # Open Source
 
